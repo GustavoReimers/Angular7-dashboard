@@ -1,8 +1,7 @@
-# SB Admin rewritten in Angular7 and Material2
+# Angular 7 and Material 2 Dashboard
 
 Simple Dashboard Admin App built using Angular 7 and Material 2.
 
-This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v1.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to Angular6 Theme.
 
 ## [Demo](http://rawgit.com/start-javascript/sb-admin-material/master/dist/)
 
@@ -12,7 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Provides fast, reliable and extensible starter for the development of Angular projects.
 
-`sb-admin-material` provides the following features:
+ provides the following features:
 
 *   Developed using Material-v2.0.0
 *   angular-v7.1.0
@@ -34,8 +33,8 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 In order to start the project use:
 
 ```bash
-$ git clone https://github.com/start-javascript/sb-admin-material.git
-$ cd sb-admin-material
+$ git clone https://github.com/dragonboy/Angular7-dashboard.git
+$ cd Angular7-dashboard
 # install the project's dependencies
 $ npm install
 # watches your files and uses livereload by default run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
