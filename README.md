@@ -3,9 +3,9 @@
 Simple Dashboard Admin App built using Angular 7 and Material 2.
 
 
-## [Demo](http://rawgit.com/start-javascript/sb-admin-material/master/dist/)
+## Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+![](https://user-images.githubusercontent.com/39370721/50430458-154dfe80-08d5-11e9-9295-ea372f67aa3f.gif)
 
 ### Introduction
 
